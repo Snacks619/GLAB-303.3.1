@@ -1,0 +1,8 @@
+public class substringDemo {
+    public static void main(String[] args) {
+        String str1 = "Java is fun";
+
+        //extract substring from index 0 to 3
+        System.out.println(str1.substring(0,4));
+    }
+}
